@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.deps.json
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\refint\BSDAO.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\ref\BSDAO.dll

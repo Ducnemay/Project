@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\bin\Debug\net6.0\BSRepositories.deps.json
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\bin\Debug\net6.0\BSRepositories.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\bin\Debug\net6.0\BSRepositories.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\bin\Debug\net6.0\BSDAO.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\bin\Debug\net6.0\BSDAO.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\BSRepositories.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\BSRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\BSRepositories.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\BSRepositories.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\BSRepositories.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\BSRepositories.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\BSRepositories.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\refint\BSRepositories.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\BSRepositories.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSRepositories\obj\Debug\net6.0\ref\BSRepositories.dll
